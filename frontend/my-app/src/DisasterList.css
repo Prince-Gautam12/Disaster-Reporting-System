@@ -1,0 +1,13 @@
+.disaster-list {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.disaster-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #f9f9f9;
+}
